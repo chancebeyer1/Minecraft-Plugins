@@ -1,0 +1,11 @@
+version: 1.0
+name: MultipliedDrops
+main: com.chance.plugin.Main
+description: Multiply Drops
+commands:
+  double:
+    aliases: []
+    description: Double
+  nodouble:
+    aliases: []
+    description: No Double

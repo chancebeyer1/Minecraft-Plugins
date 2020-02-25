@@ -1,0 +1,3 @@
+version: 1.0
+main: com.chance.MDPlugin.Main
+name: MultipliedDrops
